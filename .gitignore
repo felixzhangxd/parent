@@ -1,0 +1,26 @@
+!.gitignore
+
+.class
+
+#intellj idea
+*.iml
+.idea/
+
+#eclipse
+.project
+.classpath
+.settings/
+
+#maven
+target/
+
+#mac
+#DS_Store
+
+#windows
+Thumbs.db
+
+#log
+log/
+logs/
+*.log
